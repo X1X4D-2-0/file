@@ -4,8 +4,8 @@
 
 * `apt update`
 * `apt install git python -y`
-* `git clone https://github.com/Itzjisan/Paid.git`
-* `cd Paid`
+* `git clone https://github.com/X1X4D-2-0/file.git`
+* `cd file`
 
 #### > Run : `python file.py`
 
